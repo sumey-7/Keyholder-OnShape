@@ -1,7 +1,7 @@
 # 🌴⚔️ Our Beloved Kingdom Keychain - Onshape 3D Design 🗝️
 
 
-### **A practical mechanical design project bringing our beloved Kingdom's map into a 3D-printable keychain, combining CAD precision with national pride!** 🚀
+## **A practical mechanical design project bringing our beloved Kingdom's map into a 3D-printable keychain, combining CAD precision with national pride!** 
 
 ---
 
@@ -15,11 +15,8 @@
 To bring this project to life, the following tools and techniques were utilized:
 
 *   **Onshape CAD:** Used to build the entire 3D model on a cloud-based platform 💻.
-*   **Spline Tool (`Spline`):** Traced the geographic borders of the Kingdom with high accuracy 🗺️.
-*   **Geometric Constraints:** Applied to maintain design stability and ensure a fully closed loop 📐.
-*   **Extrude Tool (`Extrude`):** Gave the 2D sketch a sturdy **3mm depth** for durable 3D printing 🧱.
-*   **Circular Cut-out:** Embedded a **3.5mm hole** in the northern region to fit keyrings smoothly 🔑.
-
+*   Spline, Constraints, Extrude, Cut-out
+  
 ---
 
 ## 📐 Design Specifications
