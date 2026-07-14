@@ -34,7 +34,7 @@ Here are the final renderings of the Saudi Arabia Map Keychain from different an
 
 <p align="center">
   <img src="top_view.png" width="45%" alt="Top View - Saudi Arabia Keychain" style="margin-right: 10px;" />
-  <img src="imagesisometric_view.png" width="45%" alt="Isometric View - 3D Perspective" />
+  <img src="isometric_view.png" width="45%" alt="Isometric View - 3D Perspective" />
 </p>
 
 > 💡 **Tip:** *To view these images in your GitHub repository, make sure to upload your exported Onshape screenshots to a folder (e.g., `images/`) and replace `YOUR_IMAGE_1_PATH_OR_URL` and `YOUR_IMAGE_2_PATH_OR_URL` with the actual file paths!*
